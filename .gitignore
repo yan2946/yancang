@@ -1,0 +1,12 @@
+# Mac系统垃圾文件
+.DS_Store
+
+# C编译产物
+*.out
+*.o
+*.exe
+
+# 实验要求忽略
+node_modules/
+venv/
+.env
